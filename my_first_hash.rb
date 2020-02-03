@@ -42,5 +42,5 @@ def adding
 
 end
 
-hash = {"Luis" => "Future SE"}
+my_hash = {"Luis" => "Future SE"}
 
